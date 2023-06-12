@@ -71,3 +71,10 @@ Then Ensembling them using an adaptated Voting to avoid overfitting.
 - Try to run model with more epochs
 - Increase batch size
 - ...
+
+## Usage
+- Install requirements
+- Run getdata.ipynb; Please pay care to use your own token.
+- Run snb*.ipynb notebooks
+- copy submissions generated to submissions folder
+- run Ensembling.ipynb notebook
